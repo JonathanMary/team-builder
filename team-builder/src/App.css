@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.teamMember {
+  border: 3px solid white;
+  padding: 2vw;
+  margin-top: 2vw;
+  width: 200px;
+}
